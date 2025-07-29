@@ -1,0 +1,53 @@
+.parentdiv{
+    width: 100%;
+    height: 900px;
+    background-color: whitesmoke;
+}
+
+.left{
+    border: 1px solid rgb(136, 136, 135);
+    width: 150px;
+    height: 29px;
+    border-radius: 10px;
+    display: flex;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.holder{
+    display: flex;
+    justify-content: space-between;
+}
+
+.middle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+
+.img2{
+    width: 20px;
+    height: 20px;
+    padding-top: 5px;
+}
+
+.right{
+    margin-right: 15px;
+    margin-top: 10px;
+}
+
+.privacy{
+    display: flex;
+    justify-content: center;
+    padding-left: 70px;
+}
+
+.images{
+    width: 20px;
+    
+}
+.twitter{
+    height: 22px;
+}
